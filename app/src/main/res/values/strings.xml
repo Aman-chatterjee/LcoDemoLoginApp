@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lco Login App</string>
+
+
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="hitEmail">EMAIL</string>
+    <string name="hintPassword">PASSWORD</string>
+    <string name="hindConfirmPassword">CONFIRM PASSWORD</string>
+    <string name="companyName">Learncodeonline.in</string>
+    <string name="forgotPassword">FORGOT PASSWORD</string>
+    <string name="termsAndCondition">TERMS &amp; CONDITION</string>
+
+</resources>
